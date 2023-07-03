@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Maxwell Marte</h1>
-<h3 align="center">Soy un estudiante de full stack en coderhouse y este es mi Proyecto</h3>
+<h3 align="center">Soy un estudiante este es mi Proyecto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soymaxboy&label=Profile%20views&color=0e75b6&style=flat" alt="soymaxboy" /> </p>
 
